@@ -1,0 +1,258 @@
+CRITICAL - 2023-05-20 02:47:22 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-20 02:48:26 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 ROOTPATH\spark(83): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-20 03:00:20 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 14, [])
+ 2 APPPATH\Controllers\Home.php(14): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 03:07:12 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 05:18:57 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(56): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-20 05:20:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(56): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-05-20 06:29:39 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:31:51 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:33:53 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:34:58 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:35:37 --> count(): Parameter must be an array or an object that implements Countable
+in APPPATH\Controllers\Home.php on line 15.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parameter must be an array or an object that implements Countable', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 15, [])
+ 2 APPPATH\Controllers\Home.php(15): count(null)
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:39:23 --> move_uploaded_file(assets/upload/4074286921684564763.png): failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_file(assets/upload/4074286921684564763.png): failed to open stream: No such file or directory', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 26, [...])
+ 2 APPPATH\Controllers\Home.php(26): move_uploaded_file('D:\\xampp\\tmp\\php2158.tmp', 'assets/upload/4074286921684564763.png')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:40:37 --> move_uploaded_file(assets/upload/19430697921684564837.png): failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_file(assets/upload/19430697921684564837.png): failed to open stream: No such file or directory', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 26, [...])
+ 2 APPPATH\Controllers\Home.php(26): move_uploaded_file('D:\\xampp\\tmp\\php4065.tmp', 'assets/upload/19430697921684564837.png')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:44:24 --> move_uploaded_file(assets/upload/14696788411684565064.png): failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_file(assets/upload/14696788411684565064.png): failed to open stream: No such file or directory', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 26, [...])
+ 2 APPPATH\Controllers\Home.php(26): move_uploaded_file('D:\\xampp\\tmp\\phpB866.tmp', 'assets/upload/14696788411684565064.png')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:46:53 --> move_uploaded_file(assets/upload/5237947281684565213.png): failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_file(assets/upload/5237947281684565213.png): failed to open stream: No such file or directory', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 26, [...])
+ 2 APPPATH\Controllers\Home.php(26): move_uploaded_file('D:\\xampp\\tmp\\phpFC29.tmp', 'assets/upload/5237947281684565213.png')
+ 3 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:49:13 --> move_uploaded_file(assets/upload/20011538861684565353.png): failed to open stream: No such file or directory
+in APPPATH\Controllers\Home.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'move_uploaded_file(assets/upload/20011538861684565353.png): failed to open stream: No such file or directory', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 26, [...])
+ 2 APPPATH\Controllers\Home.php(26): move_uploaded_file('D:\\xampp\\tmp\\php2051.tmp', 'assets/upload/20011538861684565353.png')
+ 3 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 06:54:13 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 29.
+ 1 APPPATH\Controllers\Home.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 29, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 07:19:11 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/vendor/autoload.php' (include_path='D:\xampp\htdocs\azure-ocr\vendor/pear/pear_exception;D:\xampp\htdocs\azure-ocr\vendor/pear/net_url2;D:\xampp\php\PEAR')
+in APPPATH\Controllers\Home.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-20 07:26:04 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/vendor/autoload.php' (include_path='D:\xampp\htdocs\azure-ocr\vendor/pear/pear_exception;D:\xampp\htdocs\azure-ocr\vendor/pear/net_url2;D:\xampp\php\PEAR')
+in APPPATH\Controllers\Home.php on line 4.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-20 07:26:23 --> CodeIgniter\Autoloader\Autoloader::main(): Failed opening required '/vendor/pear/http_request2/HTTP/Request2.php' (include_path='D:\xampp\htdocs\azure-ocr\vendor/pear/pear_exception;D:\xampp\htdocs\azure-ocr\vendor/pear/net_url2;D:\xampp\php\PEAR')
+in APPPATH\Controllers\Home.php on line 6.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-05-20 07:27:14 --> Class 'App\Controllers\Http_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 07:29:39 --> Class 'App\Controllers\Http_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 07:34:27 --> Class 'App\Controllers\Http_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 07:37:40 --> Class 'pear\Http_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 07:39:50 --> Class 'pear\http_request2\HTTP\Http_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 08:01:53 --> Class 'pear\http_request2\HTTP\HTTP_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 08:02:56 --> Class 'vendor\pear\http_request2\HTTP\HTTP_Request2' not found
+in APPPATH\Controllers\Home.php on line 32.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 08:36:41 --> Undefined variable: parameters
+in APPPATH\Controllers\Home.php on line 46.
+ 1 APPPATH\Controllers\Home.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: parameters', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 46, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 09:09:10 --> Array to string conversion
+in VENDORPATH\pear\http_request2\HTTP\Request2.php on line 612.
+ 1 VENDORPATH\pear\http_request2\HTTP\Request2.php(612): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'D:\\xampp\\htdocs\\azure-ocr\\vendor\\pear\\http_request2\\HTTP\\Request2.php', 612, [...])
+ 2 APPPATH\Controllers\Home.php(51): HTTP_Request2->setBody([...])
+ 3 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 09:10:07 --> syntax error, unexpected '{'
+in APPPATH\Controllers\Home.php on line 51.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Home')
+ 5 SYSTEMPATH\CodeIgniter.php(894): class_exists('\\App\\Controllers\\Home', true)
+ 6 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 09:28:28 --> Undefined variable: operation_locationation
+in APPPATH\Controllers\Home.php on line 56.
+ 1 APPPATH\Controllers\Home.php(56): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: operation_locationation', 'D:\\xampp\\htdocs\\azure-ocr\\app\\Controllers\\Home.php', 56, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 17:11:49 --> Cannot use object of type HTTP_Request2_Response as array
+in APPPATH\Controllers\Home.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 17:15:36 --> Cannot use object of type HTTP_Request2_Response as array
+in APPPATH\Controllers\Home.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 17:29:54 --> Cannot use object of type HTTP_Request2_Response as array
+in APPPATH\Controllers\Home.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
+CRITICAL - 2023-05-20 17:34:59 --> Cannot use object of type HTTP_Request2_Response as array
+in APPPATH\Controllers\Home.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(936): App\Controllers\Home->runOCR()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(69): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\xampp\\htdocs\\azure-ocr\\public\\index.php')
